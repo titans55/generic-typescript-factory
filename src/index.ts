@@ -1,0 +1,1 @@
+export {GenericFactory, Constructable} from "./generic-typescript-factory"
