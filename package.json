@@ -1,6 +1,6 @@
 {
   "name": "generic-typescript-factory",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Provides a generic abstract factory accepting classes as constructor parameters to create objects(using a simple mapping logic)",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
